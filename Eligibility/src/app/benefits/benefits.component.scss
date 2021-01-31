@@ -22,11 +22,18 @@
   width: 330px !important;
 }
 
-.benefit-card-special {
+// .benefit-card-special {
+//   background-color: var(--light-purple);
+//   color: white;
+//   opacity: 0.7;
+// }
+
+.benefit-card:hover {
   background-color: var(--light-purple);
   color: white;
   opacity: 0.7;
 }
+
 .mobile-padding {
   padding: 1.5em;
 }
